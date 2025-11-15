@@ -1,4 +1,4 @@
-# ArchJechtInstaller
+# Arch Installer
 
 > Actualmente debido a las ultimas actualizaciones y cambios en las configuraciones el script no es funcional y debe ser actualizado.
 
